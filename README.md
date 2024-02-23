@@ -34,7 +34,7 @@ With numerous options available in the web hosting industry, selecting the perfe
 * <a href="#user-content-7"> Customer Service and Support </a> 
 * <a href="#user-content-8"> Additional Features Worth Noting </a> 
 * <a href="#user-content-9"> `InterServer` Alternatives and How They Compare </a> 
-* <a href="#user-content-10"> Expert Opinion< </a> 
+* <a href="#user-content-10"> Expert Opinion </a> 
 
 ## <span id = "user-content-1"> <span id = "t1">What Is `InterServer`?</span> </span>
 * Ranked one of the [top 10 web hosting services in 2024](https://www.forbes.com/advisor/business/software/best-web-hosting-services/)
